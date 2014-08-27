@@ -1,1 +1,13 @@
+# Site settings
+title: Blog for AP Computer Science
+email: pachachura.arthur@gmail.com
+description: "Arthur Pachachura's Awesome Blog for AP Computer Science"
+baseurl: ""
+url: "http://arthurpachachura.com"
+twitter_username: smo-key
+github_username:  smo-key
+
+# Build settings
+markdown: kramdown
+permalink: pretty
 highlighter: pygments
