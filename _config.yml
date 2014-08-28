@@ -2,13 +2,15 @@
 title: Arthur Pachachura - The Comp Life
 email: pachachura.arthur@gmail.com
 description: "Arthur Pachachura's Awesome Blog for AP Computer Science"
-baseurl: ""
-url: "http://arthurpachachura.com"
+#baseurl: ""
+baseurl: /blog
+url: "http://arthurpachachura.com/blog"
 github_username:  smo-key
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
+relative_permalinks: false
 highlighter: pygments
 timezone: America/Chicago
 lsi: true
