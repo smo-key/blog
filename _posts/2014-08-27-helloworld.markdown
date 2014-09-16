@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Post"
-date:   2014-08-27 10:00:30
+date:   2014-08-27 10:00:31
 categories: compsci
 ---
 
