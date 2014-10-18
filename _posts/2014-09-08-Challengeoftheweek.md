@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Challenge of the Week"
+title:  "CS 1: Challenge of the Week"
 date:   2014-09-08 08:30:45
 categories: compsci
 ---
