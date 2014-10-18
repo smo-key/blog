@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Three Big Ideas"
+title:  "CS 0: Three Big Ideas"
 date:   2014-08-27 13:55:35
 categories: compsci
 ---
